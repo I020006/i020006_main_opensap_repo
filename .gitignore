@@ -11,3 +11,5 @@ visual_ext_index.html
 /webapp/visual_ext_index.html
 *.json
 /.user.project.json
+/new_staged_file.txt
+/new_unstaged_file.txt
